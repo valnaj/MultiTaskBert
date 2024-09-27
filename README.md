@@ -1,4 +1,4 @@
-# Multi-Task Text Classification Model for Indicator Sets [UC3]
+# Multi-Task Text Classification Model for Indicator Sets
  
 This project involves a multi-task text classification model designed to predict multiple labels for text input columns. It leverages BERT for feature extraction and has separate classification heads for each label. The model is trained, fine-tuned, and used for inference with the following detailed steps and files.
 
